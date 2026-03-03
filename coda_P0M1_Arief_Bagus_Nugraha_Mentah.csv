@@ -1,0 +1,561 @@
+,Nama Produk,harga,pengiriman,diskon
+0,S-tee Minuman Teh Kotak,Rp2.500,Instant,
+1,Yeo's Minuman Rasa Bunga Krisantemum,Rp7.700,Instant,
+2,Fanta Grape Minuman Soda Botol,Rp5.900,Instant,
+3,Coca-Cola Zero Minuman Soda Can,Rp6.400,Instant,
+4,A&W Sarsaparila Minuman Soda Can,Rp7.200,Instant,
+5,Pocari Sweat Minuman Isotonik Botol,Rp8.900,Instant,
+6,Fanta Strawberry Minuman Soda Botol,Rp5.900,Instant,
+7,Mizone Activ Lychee Lemon Minuman Isotonik,Rp6.400,Instant,
+8,Tebs Sparkling Mix Fruit Carbonated Tea Drink PET,Rp8.800,Instant,
+9,Coca-Cola Zero Minuman Soda Botol,Rp11.500,Instant,
+10,Mizone Coco Boost Minuman Isotonik,Rp6.500,Instant,
+11,Sprite Minuman Soda Can Dus 250ml,Rp148.000,Instant,
+12,Fanta Strawberry Minuman Soda Can,Rp6.400,Instant,
+13,Coca-Cola Minuman Soda Botol,Rp11.500,Instant,
+14,Sprite Zero Sugar Minuman Soda Botol,Rp11.500,Instant,
+15,Coca-Cola Zero Minuman Soda Can Dus 250ml,Rp119.400,Instant,
+16,Coca-Cola Minuman Soda Can Dus 250ml,Rp119.400,Instant,
+17,Bundaberg Ginger Beer Minuman Soda Non Alcohol,Rp30.400,Instant,
+18,Sprite Zero Sugar Minuman Soda Botol,Rp5.900,Instant,
+19,Cap Badak Rootbeer Minuman Soda,Rp25.000,Instant,
+20,Sprite Minuman Soda Botol,Rp11.500,Instant,
+21,Sprite Minuman Soda Botol,Rp5.900,Instant,
+22,Sprite Waterlymon Minuman Soda Botol,Rp5.300,Instant,
+23,Fanta Orange Minuman Soda Botol,Rp5.900,Instant,
+24,Groovy Root Brew Minuman Soda Can,Rp8.000,Instant,
+25,Coca-Cola Classic Minuman Soda Can,Rp6.400,Instant,
+26,Coca-Cola Zero Minuman Soda PET,Rp5.900,Instant,
+27,Coca-Cola Minuman Soda Botol,Rp5.500,Instant,
+28,Fanta Strawberry Minuman Soda Botol,Rp11.500,Instant,
+29,Nutrive Benecol Orange Minuman Sehat,Rp9.500,Instant,
+30,Hydro Coco Minuman Air Kelapa Original,Rp8.800,Instant,
+31,Minuman Botanikal Astro Goods,Rp30.875,Instant,5%
+32,Adem Sari Minuman Penyejuk 7gr x 5pcs,Rp17.777,Instant,3%
+33,Fibe-Mini Fiber Drink Multipack 100ml,Rp50.500,Instant,
+34,Fibe Mini Fiber Drink,Rp8.500,Instant,
+35,Oronamin C Drink,Rp7.300,Instant,
+36,Larutan Cap Kaki Tiga Anak Rasa Stroberi Can,Rp6.100,Instant,7%
+37,Acaii Tea Pink Drink,Rp24.400,Instant,
+38,Yeo's Minuman Sari Kedelai,Rp7.800,Instant,
+39,Sosro Tehbotol Less Sugar,Rp4.600,Instant,
+40,Teh Pucuk Harum Melati,Rp3.700,Instant,
+41,Pokka Green Tea Jasmine,Rp6.400,Instant,
+42,Ichitan Green Tea Honey Lemon,Rp4.900,Instant,
+43,Pokka Oolong Tea Less Sugar,Rp6.400,Instant,
+44,Ito En Oi Ocha Hojicha,Rp11.900,Instant,
+45,Ito En Jasmine Green Tea Unsweetened,Rp12.100,Instant,
+46,Ultrajaya Teh Kotak Rasa Apel,Rp4.200,Instant,
+47,Teh Botol Sosro Dus 250ml,Rp86.400,Instant,
+48,Sosro Fruit Tea Blackcurrant,Rp6.900,Instant,
+49,Ultrajaya Teh Kotak Jasmine Less Sugar,Rp4.200,Instant,
+50,Ito En Oi Ocha Unsweetened Green Tea,Rp11.100,Instant,
+51,Ito En Unsweetened Oolong Tea,Rp11.100,Instant,
+52,Pokka Green Tea No Sugar,Rp10.300,Instant,
+53,Ito En Oi Ocha Unsweetened Green Tea,Rp22.700,Instant,
+54,Ichitan Thai Milk Green Tea,Rp9.300,Instant,
+55,Nu Green Tea Original,Rp5.100,Instant,
+56,Ito En Unsweetened Barley Tea,Rp13.500,Instant,
+57,Pokka Teh Leci,Rp6.700,Instant,
+58,Nu Milk Tea,Rp8.300,Instant,
+59,Pokka Lemon Tea,Rp6.700,Instant,
+60,Ultrajaya Teh Kotak Jasmine,Rp4.200,Instant,
+61,Sosro Joy Tea Oolong Unsweetened PET 350ml,Rp7.000,Instant,
+62,Ichitan Green Tea Apple,Rp4.900,Instant,
+63,Ultrajaya Teh Kotak Jasmine,Rp13.500,Instant,
+64,Ultrajaya Teh Kotak Jasmine Less Sugar,Rp10.900,Instant,
+65,Pokka Oolong Tea No Sugar,Rp11.300,Instant,
+66,Ultrajaya Teh Kotak Rasa Leci,Rp4.200,Instant,
+67,Ultrajaya Teh Kotak Rasa Mangga,Rp4.200,Instant,
+68,Ultrajaya Teh Kotak Jasmine Less Sugar 300ml,Rp103.200,Instant,
+69,Ultrajaya Teh Kotak Jasmine 300ml,Rp103.200,Instant,
+70,Ichitan Thai Milk Tea,Rp9.300,Instant,
+71,Ichitan Thai Milk Coffee,Rp9.500,Instant,
+72,Ichitan Brown Sugar Milk,Rp9.300,Instant,
+73,Teh Pucuk Harum,Rp3.300,Instant,
+74,Ultrajaya Teh Kotak Rasa Lemon,Rp4.200,Instant,
+75,Ultrajaya Teh Kotak Rasa Blackcurrant,Rp4.200,Instant,
+76,Teh Botol Sosro Original,Rp3.600,Instant,
+77,Sosro Tehbotol,Rp3.900,Instant,
+78,Teh Bandulan Dus 160ml,Rp31.500,Instant,
+79,Nu Green Tea Original,Rp7.300,Instant,
+80,Nu Green Tea Madu,Rp7.300,Instant,
+81,Sosro Tehbotol,Rp11.200,Instant,
+82,Yeo's Winter Melon Tea,Rp7.700,Instant,
+83,Sosro Tehbotol Original Botol,Rp4.600,Instant,
+84,Pokka Green Tea Jasmine Can,Rp9.800,Instant,
+85,Teh Pucuk Harum Melati,Rp6.200,Instant,
+86,Frestea Jasmine Lychee Honey Tea,Rp17.100,Instant,
+87,Nipis Madu Lime Soda,Rp4.200,Instant,
+88,Beli 3 Coca-Cola Zero Free Changing Color Cup,Rp17.700,Instant,
+89,Combo Coca-Cola x Belfoods,Rp26.800,Instant,16%
+90,Combo Hemat Pocari dan Oronamin C,Rp16.200,Instant,
+91,Polaris Ginger Ale Can,Rp6.900,Instant,8%
+92,Polaris Bitter Lemon Can,Rp6.900,Instant,8%
+93,Polaris Sarsaparila Can,Rp7.000,Instant,8%
+94,Polaris Coffee Cream Can,Rp6.900,Instant,8%
+95,Nipis Madu Dus 330ml,Rp59.400,Instant,
+96,Green Sands Apple Lime Can,Rp6.600,Instant,
+97,Fanta Strawberry Can Dus 250ml,Rp119.400,Instant,
+98,Sprite Zero Can Dus 250ml,Rp119.400,Instant,
+99,A&W Sarsaparila Can Dus 250ml,Rp126.000,Instant,
+100,Schweppes Soda Water Can Dus 250ml,Rp124.000,Instant,
+101,Schweppes Ginger Ale Can Dus 250ml,Rp124.000,Instant,
+102,Fanta Strawberry Zero PET,Rp5.900,Instant,
+103,Schweppes Soda Water Can,Rp8.000,Instant,
+104,Schweppes Ginger Ale CAN,Rp6.300,Instant,
+105,Schweppes Botanical Tonic Water Can Dus 250ml,Rp138.000,Instant,
+106,Polaris Soda Water Can,Rp6.000,Instant,8%
+107,Ion Water Pet,Rp7.400,Instant,
+108,Groovy Zoda Soda Water,Rp5.700,Instant,
+109,Green Sands Lemon & Grape Can,Rp6.300,Instant,
+110,Sprite Botol,Rp5.500,Instant,
+111,Mizone Mood Up Isotonic Cranberry & White Tea Botol,Rp6.400,Instant,
+112,Schweppes Botanical Tonic Water Can,Rp6.300,Instant,
+113,Green Sands Original Lime & Apple Can,Rp9.100,Instant,
+114,Hemaviton C1000 Lemon Can,Rp5.700,Instant,10%
+115,Sereh Jahe Madu Astro Goods,Rp30.875,Instant,5%
+116,Adem Sari Chingku Lemon Botol,Rp9.414,Instant,3%
+117,Nutrive Benecol Blackcurrant Multipack 100ml,Rp54.100,Instant,5%
+118,Oronamin C Multipack 120ml,Rp42.000,Instant,
+119,Larutan Cap Kaki Tiga,Rp9.300,Instant,
+120,YOU-C 1000 Orange,Rp8.200,Instant,
+121,Namaste Organic Alchemy Jamu,Rp172.800,Instant,
+122,Tropicana Slim Collagen Shot Peach Blossom 190ml,Rp9.900,Instant,10%
+123,Nutrifarm Sari Buah Lemon,Rp29.000,Instant,
+124,Acaii Tea Vege Shot,Rp24.000,Instant,
+125,Acaii Tea Skinlift Tea,Rp45.000,Instant,
+126,Acaii Tea Kids Jelly Lemon,Rp17.000,Instant,
+127,Acaii Tea Kids Anti Flu Shot,Rp25.000,Instant,
+128,Acaii Tea Black Lemon,Rp25.000,Instant,
+129,Acaii Tea Skinny Lemonade,Rp25.000,Instant,
+130,Acaii Tea Glow Recipe,Rp25.000,Instant,
+131,Malee Coconut Water Botol,Rp24.000,Instant,6%
+132,Malee Coconut Water,Rp57.300,Instant,5%
+133,Cap Panda Sarang Burung Kaleng Dus Nataru 310ml,Rp124.000,Instant,14%
+134,Beli Fibe Mini Multipack Gratis Bucket Bag,Rp101.000,Instant,
+135,Nutrive Benecol Orange Multipack 100ml,Rp54.100,Instant,5%
+136,Cap Panda Bird Nest,Rp6.700,Instant,6%
+137,Lasegar Twist Leci Lemon,Rp6.900,Instant,
+138,Mamita Mambucha Teh Fermentasi Original Kombucha Bottle,Rp57.000,Instant,
+139,Mamita Mambucha Artisan Tea Lavender Bottle,Rp57.000,Instant,
+140,Tarami Konjac Grape Jelly Pouch,Rp28.900,Instant,
+141,Acaii Tea x Chris CSB Red Power Shot,Rp23.630,Instant,15%
+142,Acaii Tea Kids Pink Dragon,Rp16.500,Instant,
+143,Acaii Tea Strawberry Chia Jelly,Rp23.100,Instant,
+144,Acaii Tea Detox Shot,Rp29.000,Instant,
+145,Acaii Tea Kids Jelly Berry,Rp16.500,Instant,
+146,Kayu Manis Jahe Astro Goods,Rp29.300,Instant,10%
+147,Kunyit Asam Astro Goods,Rp30.875,Instant,5%
+148,Coco Loco Kelapa Ijo,Rp34.900,Instant,
+149,Vegeta Herbal Anggur Merah 5gr,Rp20.200,Instant,
+150,Nutrive Benecol Strawberry,Rp9.500,Instant,
+151,Nutrive Benecol Lychee,Rp9.500,Instant,
+152,Nutrive Benecol Blackcurrant,Rp9.500,Instant,
+153,Scrubber Vegeta Jeruk,Rp14.900,Instant,
+154,Cap Panda Grass Jelly Basil Seed,Rp6.700,Instant,6%
+155,Kiranti Juice Orange,Rp9.500,Instant,
+156,Ichitan Thai Coco Water,Rp7.600,Instant,
+157,Larutan Cap Kaki Tiga Cooltopia Lemon Lime,Rp6.600,Instant,6%
+158,Larutan Cap Kaki Tiga Jambu Can,Rp6.600,Instant,6%
+159,Larutan Cap Kaki Tiga Grape,Rp6.600,Instant,6%
+160,Larutan Cap Kaki Tiga Anak Rasa Leci,Rp6.100,Instant,7%
+161,Acaii Tea Anti-Batuk Shot,Rp25.100,Instant,
+162,[CHILLED] YOU-C 1000 Orange,Rp9.200,Instant,
+163,YOU-C 1000 Mango,Rp8.200,Instant,
+164,Cap Panda Liang Teh,Rp6.700,Instant,6%
+165,Cap Panda Grass Jelly,Rp6.700,Instant,6%
+166,Acaii Tea Super Orange,Rp27.800,Instant,
+167,Acaii Tea Bee & C Shot,Rp24.400,Instant,
+168,Acaii Chlorophyll Green,Rp18.100,Instant,
+169,Acaii Tea Teatox Berry,Rp23.100,Instant,
+170,Acaii Tea Honey Lemon Jelly,Rp23.100,Instant,
+171,Acaii Tea Anti-flu Shot,Rp25.100,Instant,
+172,Coco Loco Coconut Water,Rp34.900,Instant,
+173,Hemaviton Vitamin C 1000 Orange,Rp7.000,Instant,8%
+174,Ultra Sari Kacang Ijo,Rp5.600,Instant,
+175,Larutan Cap Kaki Tiga Orange,Rp6.600,Instant,6%
+176,Kiranti Sehat Datang Bulan Original,Rp8.100,Instant,
+177,Adem Sari Ching Ku Sparkling Herbal Lemon,Rp9.252,Instant,4%
+178,YOU-C 1000 Apple,Rp8.200,Instant,
+179,YOU-C 1000 Lemon Water,Rp9.300,Instant,
+180,Larutan Penyegar Cap Kaki Tiga,Rp4.000,Instant,7%
+181,YOU-C 1000 Lemon,Rp8.200,Instant,
+182,YOU-C 1000 Orange Water,Rp9.300,Instant,
+183,Larutan Cap Kaki Tiga Anak Tawar,Rp4.000,Instant,7%
+184,Larutan Cap Kaki Tiga Leci,Rp6.600,Instant,6%
+185,Rejuve Cold Pressed Juice Green Glory,Rp57.000,Instant,
+186,Rejuve Cold Pressed Juice Beat That,Rp47.000,Instant,
+187,Rejuve Cold Pressed Juice Asian Green,Rp47.000,Instant,
+188,Rejuve Cold Pressed Juice U.Glow,Rp47.000,Instant,
+189,Rejuve Cold Pressed Juice I.Glow,Rp47.000,Instant,
+190,Evian Natural Mineral Water Glass 330ml x 20pcs,Rp720.000,Instant,
+191,Evian Natural Mineral Water PET 500ml x 24pcs,Rp572.000,Instant,
+192,Evian Natural Mineral Water PET 1500ml x 12pcs,Rp516.500,Instant,
+193,Evian Natural Mineral Water PET 750ml x 12pcs,Rp479.500,Instant,
+194,AQUA Air Mineral Dus 330ml,Rp61.700,Instant,7%
+195,Evian Natural Mineral Water PET 330ml x 24pcs,Rp297.850,Instant,30%
+196,Evian Sparkling Mineral Water Glass 330ml x 20pcs,Rp685.000,Instant,
+197,Aquviva Air Mineral Botol 700ml,Rp27.800,Instant,
+198,Nestle Pure Life Air Mineral Multipack 1500ml,Rp29.600,Instant,
+199,Beli 2 Carton Aquviva 1600ml Free Totebag Aquviva,Rp70.200,Instant,
+200,[Bundle] 6x Pristine Air Mineral 600ml,Rp30.000,Instant,
+201,[Bundle] 6x Pristine Air Mineral 1500ml,Rp55.800,Instant,
+202,[Bundle] 6x Pristine Air Mineral 400ml,Rp18.600,Instant,
+203,Prima Air Mineral Dus 24pcs x 600ml,Rp44.700,Instant,
+204,Prima Air Mineral Dus 24pcs x 330ml,Rp39.600,Instant,
+205,Evian Natural Mineral Water Glass,Rp38.500,Instant,
+206,Evian Sparkling Mineral Water Glass,Rp40.500,Instant,
+207,Evian Natural Mineral Water PET,Rp54.800,Instant,
+208,Evian Natural Mineral Water PET,Rp41.500,Instant,
+209,Ron88 Air Mineral Botol Dus 1500ml,Rp47.000,Instant,
+210,Ron88 Air Mineral Botol Dus 600ml,Rp45.000,Instant,
+211,Ron88 Air Mineral Botol Multipack 380ml,Rp38.500,Instant,
+212,Ron88 Air Mineral Botol Multipack 240ml,Rp25.000,Instant,
+213,Hydra Thera Natural Mineral Water,Rp30.000,Instant,
+214,Cleo Air Murni,Rp5.900,Instant,
+215,Bundling Mineral Water Astro Goods Multipack 600ml,Rp18.000,Instant,
+216,AQUA Air Mineral Botol Dus 1500ml,Rp86.400,Instant,
+217,Le Minerale Air Mineral Dus 330ml,Rp57.600,Instant,
+218,AQUA Air Mineral Botol Dus 600ml,Rp73.600,Instant,
+219,Aquviva Air Mineral 250ml,Rp29.000,Instant,
+220,Bundle Aquviva 700ml,Rp15.600,Instant,4%
+221, Aquviva Air Mineral 1600ml,Rp35.100,Instant,
+222,Bundling Mineral Water Astro Goods Multipack 1500ml,Rp25.200,Instant,
+223,Aquviva Mineral Water Botol,Rp2.700,Instant,
+224,Aquviva Air Mineral,Rp5.900,Instant,
+225,Evian Natural Mineral Water PET,Rp18.700,Instant,
+226,ViCA Air Mineral Dus 220ml,Rp29.800,Instant,
+227,Cleo Air Murni Botol Multipack 1500ml,Rp36.900,Instant,
+228,Nestle Pure Life Air Mineral Botol Dus 1500ml,Rp54.000,Instant,
+229,Vit Air Mineral Dus 1500ml,Rp56.600,Instant,
+230,Evian Natural Mineral Water PET,Rp23.300,Instant,
+231,Vit Air Mineral Cup Dus 200ml,Rp30.400,Instant,
+232,AQUA Reflections Still Water Glass Bottle,Rp20.100,Instant,
+233,Mineral Water Astro Goods Dus 1500ml,Rp52.020,Instant,15%
+234,Cleo Air Murni Multipack 220ml,Rp28.800,Instant,
+235,Mineral Water Astro Goods Dus 600ml,Rp61.200,Instant,15%
+236,Mineral Water Astro Goods Botol,Rp3.000,Instant,
+237,Mineral Water Astro Goods Botol,Rp4.200,Instant,
+238,Prima Air Mineral Botol,Rp1.300,Instant,38%
+239,Cleo Air Murni Botol,Rp6.400,Instant,
+240,AQUA Click n Go Air Mineral Botol,Rp7.200,Instant,
+241,Vit Air Mineral,Rp4.700,Instant,
+242,AQUA Reflections Sparkling Water Glass Bottle,Rp21.000,Instant,
+243,AQUA Air Mineral Multipack 600ml,Rp20.600,Instant,
+244,AQUA Cube Air Mineral Dus 220ml,Rp33.600,Instant,
+245,Nestle Pure Life Air Mineral Multipack 600ml,Rp15.500,Instant,
+246,Nestle Pure Life Air Mineral Botol,Rp6.000,Instant,
+247,Nestle Pure Life Air Mineral Botol,Rp2.800,Instant,
+248,Amidis Distilled Air Mineral Botol,Rp4.700,Instant,
+249,AQUA Air Mineral Multipack 1500ml,Rp38.400,Instant,
+250,Le Minerale Air Mineral Botol,Rp6.100,Instant,
+251,Pristine Air Mineral Botol,Rp9.300,Instant,
+252,Pristine Air Mineral Botol,Rp5.000,Instant,
+253,Pristine Air Mineral Botol,Rp3.100,Instant,
+254,Crystaline Air Mineral Botol,Rp2.700,Instant,
+255,AQUA Air Mineral Cup Dus 200ml,Rp49.600,Instant,
+256,Eternal Plus Alkaline Water Botol,Rp10.500,Instant,
+257,Le Minerale Air Mineral Botol,Rp2.900,Instant,
+258,AQUA Air Mineral Botol,Rp7.200,Instant,
+259,AQUA Air Mineral Botol,Rp3.500,Instant,
+260,Minute Maid Pulpy Orange,Rp6.400,Instant,
+261,Minute Maid Pulpy Orange,Rp15.400,Instant,
+262,Tani Organic Pure Lemon Juice Alora,Rp32.500,Instant,
+263,Combo Minute Maid x Astro Goods,Rp79.400,Instant,15%
+264,Tani Organic Pure Lemon Juice Alora,Rp21.500,Instant,
+265,Minute Maid Pulpy Orange Pet Dus 300ml,Rp69.120,Instant,10%
+266,Diamond Juice Orange Unsweetened,Rp7.000,Instant,
+267,Diamond Juice Blueberry Unsweetened,Rp30.800,Instant,
+268,Diamond Juice Cranberry Unsweetened,Rp30.800,Instant,
+269,Diamond Juice Blueberry Unsweetened UHT,Rp6.400,Instant,
+270,Diamond Jungle Juice Lemon,Rp35.200,Instant,
+271,Diamond Jungle Juice Mango,Rp35.100,Instant,
+272,Diamond Jungle Juice Grape,Rp35.300,Instant,
+273,Diamond Jungle Juice Pineapple,Rp35.200,Instant,
+274,Sunfresh Premium Apple Juice,Rp50.700,Instant,
+275,Sunfresh Premium Pineapple Juice,Rp56.300,Instant,
+276,Sunfresh Premium Orange Juice Unsweetened,Rp57.400,Instant,
+277,Buavita Jus Leci,Rp9.100,Instant,
+278,Buavita Korean White Peach Juice,Rp11.000,Instant,1%
+279,Diamond Jungle Juice Apple,Rp35.200,Instant,
+280,Diamond Jungle Juice Guava,Rp35.200,Instant,
+281,Diamond Jungle Juice Orange,Rp35.200,Instant,
+282,Buavita Jus Jambu,Rp29.500,Instant,14%
+283,Diamond Juice Cranberry,Rp40.800,Instant,
+284,Buavita Jus Mangga,Rp9.100,Instant,
+285,Buavita Jus Jambu,Rp9.100,Instant,
+286,Ichitan Korean Banana Milk,Rp9.500,Instant,
+287,Yeo's Grass Jelly Can,Rp7.700,Instant,
+288,Pororo Blueberry Flavored,Rp16.300,Instant,
+289,Nescafe Gula Aren Coffee,Rp7.500,Instant,
+290,Baked. Coffee Can Oat Mocha Latte,Rp41.300,Instant,
+291,Baked. Coffee Oat Latte Can,Rp41.300,Instant,
+292,Baked. Coffee Latte Can,Rp36.100,Instant,
+293,Baked. Cold Brew Coffee Can,Rp31.000,Instant,
+294,Nescafe Ice Black Can,Rp7.800,Instant,
+295,Good Day Avocado Delight Coffee/Kopi,Rp7.800,Instant,
+296,Good Day Coffee Originale Cappuccino,Rp7.800,Instant,
+297,Nescafe Latte Coffee,Rp7.200,Instant,
+298,Nescafe Caramel Macchiato Coffee,Rp7.200,Instant,
+299,Nescafe Cappuccino Coffee,Rp7.200,Instant,
+300,Yakult Minuman Probiotik,Rp10.900,Instant,
+301,Yakult Rasa Mangga Minuman Prebiotik,Rp11.000,Instant,
+302,Yakult Minuman Probiotik,Rp22.500,Instant,
+303,Heavenly Blush Greek Bfast Yogurt Drink,Rp16.500,Instant,
+304,Cimory Mixed Fruit Yogurt Drink UHT,Rp5.500,Instant,
+305,Cimory Blueberry Yogurt Drink UHT,Rp5.500,Instant,
+306,Heavenly Blush Yoguruto Mango Yogurt Drink,Rp12.500,Instant,
+307,Heavenly Blush Yoguruto Lemon Yogurt Drink,Rp12.500,Instant,
+308,Cimory Yogurt Drink Strawberry Zero Sugar,Rp10.000,Instant,
+309,Cimory Yogurt Drink Strawberry & Mango Zero Sugar,Rp10.000,Instant,
+310,KIN Bugarian Slimberriies Yogurt Drink,Rp9.500,Instant,5%
+311,Cimory Mixed Fruit Yogurt Drink,Rp8.190,Instant,10%
+312,Cimory Yogurt Drink Mixed Berry,Rp10.000,Instant,
+313,Cimory Yogurt Drink Lychee,Rp10.000,Instant,
+314,Yakult Light Less Sugar Minuman Probiotik,Rp13.300,Instant,
+315,KIN Bulgarian Black Yogurt Drink,Rp9.500,Instant,5%
+316,Greenfields Yogurt Drink Blueberry,Rp8.550,Instant,10%
+317,Greenfields Strawberry Yogurt Drink,Rp9.450,Instant,10%
+318,Heavenly Blush Tummy Blueberry Redbeet Yogurt Drink,Rp17.500,Instant,
+319,Heavenly Blush Tummy Mango Carot Yogurt Drink,Rp17.500,Instant,
+320,Heavenly Blush Youruto Peach Yogurt Drink,Rp12.600,Instant,
+321,Heavenly Blush Youruto Blackcurrant Yogurt Drink,Rp11.340,Instant,10%
+322,Heavenly Blush Yoguruto Strawberry Yogurt Drink,Rp12.600,Instant,
+323,Heavenly Blush Yoguruto Original Yogurt Drink,Rp12.600,Instant,
+324,KIN Bulgarian Blueberry Yogurt Drink,Rp9.500,Instant,5%
+325,Cimory Yogurt Drink Plain,Rp9.100,Instant,
+326,Cimory Blueberry Yogurt Drink,Rp8.645,Instant,5%
+327,Cimory Strawberry Yogurt Drink,Rp9.100,Instant,
+328,ChocoDrink Belgian Chocolate Minuman Bubuk 4+2 sachet x 28 gram,Rp7.600,Instant,
+329,Red Bull Energy Drink Can Multipack 250ml,Rp98.600,Instant,
+330,Redbull Energy Drink,Rp27.700,Instant,
+331,Bubuk Tepung Akar Teratai Lotus Root Starch West Lake Brand,Rp45.525,Instant,25%
+332,Milo 3In1 Activ-Go Polybag 340gr,Rp45.700,Instant,
+333,One% Nutrition Protein Water Honey Lemon,Rp35.000,Instant,
+334,One% Nutrition Protein Water Strawberry,Rp35.000,Instant,
+335,Extrajoss Ultimate Can,Rp8.500,Instant,
+336,Kratingdaeng Redbull Can,Rp8.700,Instant,
+337,Tropicana Slim Almond Drink Chocolicious,Rp10.000,Instant,13%
+338,Tropicana Slim Almond Drink Banana Delight,Rp9.600,Instant,14%
+339,Tropicana Slim Oat Drink,Rp8.800,Instant,11%
+340,Vitmaker Raspberry Lemon Minuman Kolagen,Rp324.400,Instant,
+341,Hotto Purto Multigrain Purple Potato Minuman Tinggi Serat,Rp292.200,Instant,
+342,SIS Hydro+ Electrolyte Drink Mix Berry,Rp32.000,Instant,
+343,NEWLAB Fitlogy Coffee Minuman Diet,Rp209.200,Instant,
+344,Enhans Vibe Persik Minuman Tinggi Serat,Rp179.000,Instant,
+345,Herbilogy Beetroot Extract Powder Minuman Herbal,Rp104.800,Instant,9%
+346,Vitmaker Raspberry Lemon Minuman Kolagen,Rp139.920,Instant,20%
+347,Herbilogy Empon Mix Extract Powder Minuman Herbal,Rp109.500,Instant,
+348,Flimty Raspberry Minuman Tinggi Serat,Rp294.600,Instant,
+349,Flimty Blackcurrant Minuman Tinggi Serat,Rp280.300,Instant,
+350,Balans Lite Tropical Fruit Fiber & Probiotics Drink,Rp396.500,Instant,
+351,Balans Active Powder Mixed Berries Fiber & Probiotics Drink,Rp396.500,Instant,
+352,Flimty Raspberry Minuman Tinggi Serat,Rp95.800,Instant,1%
+353,Flimty Mango Minuman Tinggi Serat,Rp95.800,Instant,1%
+354,Iced Choco Black Forest - Regular,Rp22.500,Instant,10%
+355,Iced Choco Black Forest - Large,Rp28.800,Instant,10%
+356,Moontea Peach Oolong Brew Tea - Regular,Rp19.800,Instant,10%
+357,Moontea Roasted Oolong Brew Tea - Large,Rp26.100,Instant,10%
+358,Moontea Peach Oolong Milk Tea - Regular,Rp25.200,Instant,10%
+359,Moontea Roasted Oolong Soy Milk Tea - Regular,Rp29.700,Instant,10%
+360,Moontea Peach Oolong Soy Milk Tea - Regular,Rp29.700,Instant,10%
+361,Moontea Roasted Oolong Soy Milk Tea - Large,Rp36.000,Instant,10%
+362,Moontea Roasted Oolong Milk Tea - Large,Rp31.500,Instant,10%
+363,Moontea Roasted Oolong Milk Tea - Regular,Rp25.200,Instant,10%
+364,Moontea Peach Oolong Brew Tea - Large,Rp26.100,Instant,10%
+365,Moontea Peach Oolong Milk Tea - Large,Rp31.500,Instant,10%
+366,Moontea Peach Oolong Soy Milk Tea - Large,Rp36.000,Instant,10%
+367,Moontea Roasted Oolong Brew Tea - Regular,Rp19.800,Instant,10%
+368,Creamy Sea Salt Matcha Latte - Large,Rp34.200,Instant,5%
+369,Coconut Cloud Matcha Latte - Large,Rp34.200,Instant,5%
+370,Mango Coconut Matcha Latte - Large,Rp34.200,Instant,5%
+371,Creamy Sea Salt Matcha Latte - Regular,Rp27.600,Instant,5%
+372,Coconut Cloud Matcha Latte - Regular,Rp27.600,Instant,5%
+373,Mango Coconut Matcha Latte - Regular,Rp27.600,Instant,5%
+374,Liang Teh & Grass Jelly Large,Rp26.600,Instant,5%
+375,Pink Lemonade - Large,Rp20.900,Instant,5%
+376,Pink Lemonade - Regular,Rp16.200,Instant,5%
+377,Creamy Sea Salt Cold Brew AC x Expat Roasters. - Large,Rp41.400,Instant,10%
+378,Smooth Black Cold Brew AC x Expat Roasters. - Large,Rp38.700,Instant,10%
+379,Peachy Yuzu Cold Brew AC x Expat Roasters. - Large,Rp41.400,Instant,10%
+380,Americano,Rp57.000,Instant,5%
+381,Kopi Susu Gula Aren,Rp80.800,Instant,5%
+382,Kopi Susu Astronauts,Rp85.500,Instant,5%
+383,Signature Chocolate,Rp80.800,Instant,5%
+384,Signature Matcha Latte,Rp90.300,Instant,5%
+385,Smooth Black Cold Brew AC x Expat Roasters. - Regular,Rp34.200,Instant,5%
+386,Peachy Yuzu Cold Brew AC x Expat Roasters. - Regular,Rp36.100,Instant,5%
+387,Creamy Sea Salt Cold Brew AC x Expat Roasters. - Regular,Rp36.100,Instant,5%
+388,Es Markisa Jelly,Rp24.000,Instant,
+389,Grass Jelly Milk Tea,Rp24.000,Instant,
+390,Liang Teh & Grass Jelly Regular,Rp20.000,Instant,
+391,Hibiscus Orange Tea with Boba & Honey Jelly - Regular,Rp20.000,Instant,
+392,Butterfly Lemongrass Tea with Boba & Honey Jelly - Regular,Rp20.000,Instant,
+393,Lemon Tea with Lychee Jelly - Large,Rp25.700,Instant,5%
+394,Lemon Tea with Lychee Jelly - Regular,Rp19.000,Instant,5%
+395,Mango Tea with Lychee Jelly - Large,Rp25.700,Instant,5%
+396,Mango Tea with Lychee Jelly - Regular,Rp20.000,Instant,
+397,Iced Kopi Susu Astronauts - Large,Rp25.500,Instant,15%
+398,Iced Kopi Susu Astronauts - Regular,Rp18.300,Instant,15%
+399,Oat Milk Iced Chocolate Regular,Rp26.500,Instant,
+400,Oat Milk Iced Latte Regular,Rp26.600,Instant,5%
+401,Oat Milk Es Kopi Susu Gula Aren Regular,Rp28.000,Instant,
+402,Oat Milk Iced Matcha Latte Regular,Rp25.100,Instant,15%
+403,Signature Iced Hazelnut Chocolate - Regular,Rp19.400,Instant,23%
+404,Signature Iced Japanese Milk Tea - Regular,Rp26.500,Instant,
+405,Iced Yuzu Lemon Tea - Regular,Rp14.700,Instant,6%
+406,Iced Manuka Honey Black Tea - Regular,Rp21.000,Instant,
+407,Signature Iced Matcha Latte - Regular,Rp23.500,Instant,8%
+408,Signature Iced Hazelnut Chocolate - Large,Rp25.700,Instant,20%
+409,Signature Iced Chocolate - Large,Rp23.300,Instant,5%
+410,Signature Iced Chocolate - Regular,Rp17.600,Instant,5%
+411,Signature Iced Black Tea - Regular,Rp11.700,Instant,10%
+412,Iced Manuka Honey Green Tea - Regular,Rp21.000,Instant,
+413,Iced Jasmine Green Tea - Regular,Rp13.000,Instant,
+414,Signature Iced Japanese Milk Tea - Large,Rp30.600,Instant,10%
+415,Iced Yuzu Lemon Tea - Large,Rp21.400,Instant,5%
+416,Iced Manuka Honey Black Tea - Large,Rp26.500,Instant,
+417,Signature Iced Black Tea - Large,Rp16.500,Instant,
+418,Iced Manuka Honey Green Tea - Large,Rp26.500,Instant,
+419,Signature Iced Matcha Latte - Large,Rp34.000,Instant,
+420,Iced Jasmine Green Tea - Large,Rp21.600,Instant,8%
+421,Iced Manuka Honey Latte (Espresso Base) - Large,Rp31.000,Instant,
+422,Iced Hazelnut Latte (Espresso Base) - Large,Rp29.000,Instant,
+423,Iced Salted Caramel Latte (Espresso Base) - Large,Rp28.500,Instant,5%
+424,Iced Kopi Susu Gula Aren (Espresso Base) - Large,Rp20.800,Instant,20%
+425,Iced Plain Latte (Espresso Base) - Large,Rp25.700,Instant,5%
+426,Iced Americano (Espresso Base) - Large,Rp14.400,Instant,20%
+427,Iced Manuka Honey Latte (Espresso Base) - Regular,Rp24.000,Instant,
+428,Iced Hazelnut Latte (Espresso Base) - Regular,Rp22.000,Instant,
+429,Iced Salted Caramel Latte (Espresso Base) - Regular,Rp17.600,Instant,20%
+430,Iced Kopi Susu Gula Aren (Espresso Base) - Regular,Rp16.200,Instant,15%
+431,Iced Plain Latte (Espresso Base) - Regular,Rp17.100,Instant,5%
+432,Iced Americano (Espresso Base) - Regular,Rp12.800,Instant,15%
+433,ABC Sirup Squash Delight Jeruk Florida,Rp17.600,Instant,
+434,[Bundle] 3 Diamond Full Cream Susu UHT 1000 ml + 1 Matcha Drink Pillow - Astro Kids,Rp155.400,Instant,
+435,Herba Original Minuman Madu Enak,Rp19.100,Instant,
+436,Matcha Drink Pillow Astro Kids,Rp90.000,Instant,
+437,Heavenly Blush Tummy Passionfruit Sugar Free Yogurt Drink 180ml,Rp8.500,Instant,50%
+438,Heavenly Blush Tummy Lemon Sugar Free Yogurt Drink 180ml,Rp8.500,Instant,50%
+439,Heavenly Blush Tummy Guanabana Soursop Sugar Free Yogurt Drink 180ml,Rp8.500,Instant,50%
+440,Kombucha Variant Lavender Mambucha,Rp44.300,Instant,
+441,Heavenly Blush Greek Yogurt Plain,Rp45.090,Instant,10%
+442,Biokul Set Yogurt Plain,Rp46.100,Instant,
+443,Biokul To Go Bluberry Yogurt,Rp7.300,Instant,
+444,Biokul To Go Strawberry Yogurt,Rp7.300,Instant,
+445,Biokul Greek Yogurt Honey,Rp14.100,Instant,
+446,Biokul To Go Plain Yogurt,Rp7.300,Instant,
+447,Biokul Greek Yogurt Mango,Rp72.200,Instant,
+448,Biokul Greek Yogurt Topping Strawberry,Rp19.400,Instant,
+449,Biokul Greek Yogurt Topping Cookies,Rp19.400,Instant,
+450,Biokul To Go Mixberry Yogurt,Rp7.300,Instant,
+451,Biokul To Go Lychee Yogurt,Rp7.300,Instant,
+452,Biokul To Go Mango Yogurt,Rp7.300,Instant,
+453,Heavenly Blush Greek Yogurt Honey,Rp27.100,Instant,
+454,Cimory Stick Blueberry Yogurt Box,Rp65.300,Instant,16%
+455,Cimory Stick Strawberry Yogurt Box,Rp65.300,Instant,16%
+456,Cimory Squeeze Mango Sticky Rice Yogurt,Rp10.000,Instant,17%
+457,Biokul Stired Yogurt Plain,Rp9.300,Instant,
+458,Cimory Squeeze Strawberry Yogurt,Rp10.000,Instant,17%
+459,Heavenly Blush Greek Yogurt Peach,Rp24.390,Instant,10%
+460,Heavenly Blush Greek Yogurt Granola,Rp24.390,Instant,10%
+461,Jardin Signature Americano Sweet,Rp13.500,Instant,
+462,Milo Activ-Go Susu UHT,Rp5.800,Instant,
+463,Hilo School Chocolate Susu UHT RTD,Rp7.400,Instant,17%
+464,Milk Life Lactose Free Susu UHT,Rp6.400,Instant,
+465,Nutrive Benecol Lychee Multipack 100ml,Rp54.100,Instant,5%
+466,Nutrive Benecol Strawberry Multipack 100ml,Rp54.100,Instant,5%
+467,Meiji Yogurt Plain,Rp22.000,Instant,
+468,Meiji Yogurt Mango,Rp22.000,Instant,
+469,Meiji Yogurt Mixed Berry,Rp22.000,Instant,
+470,Cimory Yogurt Stick Orange 25 pcs x 40 gr,Rp65.300,Instant,16%
+471,Biokul To Go Yuzu Yogurt,Rp7.300,Instant,
+472,Biokul To Go Marshmallow Yogurt,Rp6.570,Instant,10%
+473,Biokul To Go Brown Sugar Latte Yogurt,Rp6.570,Instant,10%
+474,Biokul Greek Yogurt Plain,Rp63.500,Instant,
+475,Yoseo Creamix Caramel Topping Choco Nut Crunch Yogurt,Rp14.900,Instant,
+476,KIN Yogurt Slurp XL Blueberry Yogurt Pouch,Rp8.400,Instant,6%
+477,Cimory Bites Blueberry Yogurt,Rp8.700,Instant,
+478,Cimory Bites Strawberry Mango Yogurt,Rp8.700,Instant,
+479,Cimory Bites Berry Blend Yogurt,Rp8.700,Instant,
+480,Cimory Bites Yuzu Yogurt,Rp8.700,Instant,
+481,Cimory Bites Strawberry Lychee Yogurt,Rp8.700,Instant,
+482,Heavenly Blush Greek Yogurt Lychee,Rp27.100,Instant,
+483,Cimory Greek Yogurt Low Fat,Rp43.400,Instant,
+484,Heavenly Blush Greek Yogurt Original,Rp94.680,Instant,10%
+485,Greenfields Strawberry Yogurt Pouch,Rp8.300,Instant,21%
+486,Biokul Stired Yogurt Strawberry,Rp9.300,Instant,
+487,Cimory Greek Yogurt Plain,Rp43.400,Instant,
+488,Heavenly Blush Greek Yogurt Classic,Rp19.500,Instant,
+489,Cimory Squeeze Peach Yogurt,Rp10.000,Instant,17%
+490,Heavenly Blush Greek Yogurt Strawberry,Rp24.390,Instant,10%
+491,Biokul Stired Yogurt Plain,Rp69.200,Instant,
+492,Greenfields Blueberry Yogurt,Rp15.300,Instant,10%
+493,Cimory Squeeze Blueberry Yogurt,Rp10.000,Instant,17%
+494,Milk Life Kids Strawberry Milkshake 115ml Susu UHT 1 Dus,Rp125.000,Instant,
+495,Milk Life Kids Classic Chocolate 115ml Susu UHT 1 Dus,Rp125.000,Instant,
+496,Milk Life Chocolate Susu UHT,Rp20.800,Instant,
+497,Milk Life Full Cream Susu UHT,Rp20.800,Instant,
+498,Milk Life Teens Full Cream Susu UHT,Rp5.500,Instant,
+499,Milk Life Teens Strawberry Susu UHT,Rp5.200,Instant,
+500,Cimory Milk Tea Susu UHT,Rp6.200,Instant,18%
+501,Cimory Thai Tea Susu UHT,Rp6.200,Instant,18%
+502,Cimory Strawberry Susu UHT,Rp7.500,Instant,
+503,Diamond Milk All Purpose Susu UHT,Rp21.900,Instant,
+504,Cimory Strawberry Susu UHT,Rp17.500,Instant,23%
+505,Cimory Chocolate Susu UHT,Rp12.500,Instant,29%
+506,Cimory Marie Regal Susu UHT,Rp17.500,Instant,23%
+507,Morinaga Chil Go Strawberry Milk 130ml,Rp33.200,Instant,8%
+508,Organic Milk by Ultra Milk Susu UHT Organik,Rp30.000,Instant,25%
+509,Milk Life Lactose Free Susu UHT Dus 200ml,Rp133.900,Instant,
+510,Frisian Flag ENERGO+ Mixed Berries Susu UHT,Rp7.600,Instant,9%
+511,Milo Cool Sensasi Dingin Susu RTD,Rp10.300,Instant,
+512,Greenfields Cafe Latte Susu UHT,Rp7.000,Instant,
+513,Ultra Milk Mocca Susu UHT,Rp17.900,Instant,
+514,Pediasure Go Chocolate 1-10 Tahun Susu UHT,Rp14.700,Instant,
+515,Bear Brand Gold White Tea Susu Sterill,Rp10.300,Instant,
+516,Greenfields Chocolate Susu UHT 200 ml,Rp220.200,Instant,
+517,Greenfields Strawberry Susu UHT 200 ml,Rp220.200,Instant,
+518,Greenfields Full Cream Susu UHT 200 ml,Rp220.200,Instant,
+519,Collagena Susu Steril Kolagen,Rp13.500,Instant,
+520,Milku Original Susu UHT,Rp3.700,Instant,
+521,Frisian Flag Nutribrain Strawberry Susu UHT 110ml,Rp98.500,Instant,16%
+522,Frisian Flag Nutribrain Chocolate Susu UHT 110ml,Rp98.500,Instant,16%
+523,Cimory Matcha Susu UHT,Rp7.300,Instant,
+524,Ultra Milk Chocolate Susu UHT,Rp17.900,Instant,
+525,Ultra Mimi Kids Vanila Susu UHT 125 ml,Rp138.700,Instant,
+526,Cimory Chocolate Mint Susu UHT,Rp6.000,Instant,18%
+527,Greenfields Strawberry Susu UHT 105 ml,Rp153.700,Instant,
+528,Greenfields Full Cream Susu UHT Dus 105 ml,Rp153.700,Instant,
+529,Greenfields Chocolate Susu UHT Dus 105 ml,Rp153.700,Instant,
+530,Greenfields Chocolate Susu UHT,Rp8.500,Instant,
+531,Greenfields Chocolate Susu UHT,Rp7.000,Instant,
+532,Greenfields Full Cream Susu UHT,Rp8.500,Instant,
+533,Frisian Flag Low Fat Belgian Chocolate Susu UHT,Rp6.800,Instant,10%
+534,Ultra Milk Taro Susu UHT,Rp6.400,Instant,
+535,Ultra Milk Strawberry Susu UHT,Rp3.900,Instant,
+536,Ultra Milk Mocca Susu UHT,Rp7.700,Instant,
+537,Ultra Milk Low Fat Susu UHT,Rp8.400,Instant,
+538,Ultra Milk Low Fat Chocolate Susu UHT,Rp8.400,Instant,
+539,Ultra Milk Karamel Susu UHT,Rp6.400,Instant,
+540,Ultra Milk Chocolate Susu UHT,Rp3.900,Instant,
+541,Ovaltine Cokelat Malt Susu UHT,Rp27.200,Instant,
+542,Tujuh Kurma Susu Steril Kurma,Rp12.000,Instant,
+543,Greenfields Strawberry Susu UHT,Rp7.000,Instant,
+544,Milo Active-Go Susu UHT Multipack 110ml,Rp13.200,Instant,
+545,Diamond Low Fat High Calcium Susu UHT,Rp21.800,Instant,
+546,Ultra Mimi Kids Chocolate Susu UHT 125 ml,Rp134.000,Instant,
+547,Greenfields Full Cream Susu UHT,Rp7.000,Instant,
+548,Milku Chocolate Premium Susu UHT,Rp3.700,Instant,
+549,Mujigae Banana Milk Original Susu UHT,Rp10.100,Instant,8%
+550,Cimory Choco Malt Susu UHT,Rp6.000,Instant,18%
+551,Cimory Choco Cashew Susu UHT,Rp6.000,Instant,18%
+552,Cimory Blueberry Susu UHT,Rp6.000,Instant,18%
+553,Milk Life Kids Strawberry Milkshake Susu UHT,Rp3.000,Instant,
+554,Milk Life Kids Chocolate Susu UHT,Rp3.000,Instant,
+555,Cimory Marie Regal Susu UHT,Rp7.300,Instant,
+556,Cimory Choco Hazelnut Susu UHT,Rp6.000,Instant,18%
+557,Cimory Choco Almond Susu UHT,Rp6.000,Instant,18%
+558,Cimory Bebas Laktosa Susu UHT,Rp6.000,Instant,18%
+559,Cimory Chocolate Susu UHT,Rp6.000,Instant,18%
